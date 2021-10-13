@@ -1,0 +1,10 @@
+C:\@\rezzmk\repository-pattern-boilerplate\Boilerplate.Repository\Boilerplate.Repository\obj\Debug\netcoreapp3.1\Boilerplate.Repository.csproj.AssemblyReference.cache
+C:\@\rezzmk\repository-pattern-boilerplate\Boilerplate.Repository\Boilerplate.Repository\obj\Debug\netcoreapp3.1\Boilerplate.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\@\rezzmk\repository-pattern-boilerplate\Boilerplate.Repository\Boilerplate.Repository\obj\Debug\netcoreapp3.1\Boilerplate.Repository.AssemblyInfoInputs.cache
+C:\@\rezzmk\repository-pattern-boilerplate\Boilerplate.Repository\Boilerplate.Repository\obj\Debug\netcoreapp3.1\Boilerplate.Repository.AssemblyInfo.cs
+C:\@\rezzmk\repository-pattern-boilerplate\Boilerplate.Repository\Boilerplate.Repository\obj\Debug\netcoreapp3.1\Boilerplate.Repository.csproj.CoreCompileInputs.cache
+C:\@\rezzmk\repository-pattern-boilerplate\Boilerplate.Repository\Boilerplate.Repository\bin\Debug\netcoreapp3.1\Boilerplate.Repository.deps.json
+C:\@\rezzmk\repository-pattern-boilerplate\Boilerplate.Repository\Boilerplate.Repository\bin\Debug\netcoreapp3.1\Boilerplate.Repository.dll
+C:\@\rezzmk\repository-pattern-boilerplate\Boilerplate.Repository\Boilerplate.Repository\bin\Debug\netcoreapp3.1\Boilerplate.Repository.pdb
+C:\@\rezzmk\repository-pattern-boilerplate\Boilerplate.Repository\Boilerplate.Repository\obj\Debug\netcoreapp3.1\Boilerplate.Repository.dll
+C:\@\rezzmk\repository-pattern-boilerplate\Boilerplate.Repository\Boilerplate.Repository\obj\Debug\netcoreapp3.1\Boilerplate.Repository.pdb
